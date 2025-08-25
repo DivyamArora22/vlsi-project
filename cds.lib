@@ -1,0 +1,13 @@
+DEFINE analogLib $CDSHOME/tools/dfII/etc/cdslib/artist/analogLib
+DEFINE US_8ths   $CDSHOME/tools/dfII/etc/cdslib/sheets/US_8ths
+DEFINE basic     $CDSHOME/tools/dfII/etc/cdslib/basic
+DEFINE cdsDefTechLib $CDSHOME/tools/dfII/etc/cdsDefTechLib
+DEFINE NCSU_TechLib_FreePDK45  $PDK_DIR/ncsu_basekit/lib/NCSU_TechLib_FreePDK45
+DEFINE NCSU_Devices_FreePDK45  $PDK_DIR/ncsu_basekit/lib/NCSU_Devices_FreePDK45
+DEFINE mp_intro /home/divyama3/ece425.work/mp_intro
+DEFINE mp_stdcell /home/divyama3/ece425.work/mp_stdcell
+DEFINE mp_datapath /home/divyama3/ece425.work/mp_datapath
+#Removed by ddDeleteObj: DEFINE mp_stdcell_copy /home/divyama3/ece425.work/mp_stdcell_copy
+DEFINE mp_stdcell_copy /home/divyama3/ece425.work/mp_stdcell_copy
+#Removed by ddDeleteObj: DEFINE mp_stdcell_temp /home/divyama3/ece425.work/mp_stdcell_temp
+DEFINE mp_stdcell_temp /home/divyama3/ece425.work/mp_stdcell_temp
